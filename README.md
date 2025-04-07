@@ -1,7 +1,8 @@
 # WebApp de Clasificación de Radiografías con IA Interpretable
 Este proyecto es una webapp que clasifica radiografías según la parte del cuerpo utilizando un modelo de deep learning. Además, incorpora herramientas de explicabilidad como Grad-CAM++ y niveles de confianza para mejorar la interpretabilidad de las predicciones.
 
-### Demo
+### Demo 
+*Click en la imagen para ver el video
 [![Video en YouTube](https://img.youtube.com/vi/1CS3Zk7abdE/maxresdefault.jpg)](https://youtu.be/1CS3Zk7abdE?si=pC-3P6x4yg-vsDty)
 
 ---
